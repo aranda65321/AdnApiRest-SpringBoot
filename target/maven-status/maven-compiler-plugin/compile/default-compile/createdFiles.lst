@@ -1,0 +1,9 @@
+com\api\rest\test\adn\TestAdnApiRest\dao\IResultsAdn.class
+com\api\rest\test\adn\TestAdnApiRest\web\controller\AdnApiRestController.class
+com\api\rest\test\adn\TestAdnApiRest\models\User.class
+com\api\rest\test\adn\TestAdnApiRest\TestAdnApiRestApplication.class
+com\api\rest\test\adn\TestAdnApiRest\dao\IUsersRepository.class
+com\api\rest\test\adn\TestAdnApiRest\models\Matrix.class
+com\api\rest\test\adn\TestAdnApiRest\models\MatrixManager.class
+com\api\rest\test\adn\TestAdnApiRest\models\ResultsAdn.class
+com\api\rest\test\adn\TestAdnApiRest\dao\UsersManagerService.class
