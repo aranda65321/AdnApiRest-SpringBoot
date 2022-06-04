@@ -1,5 +1,9 @@
 #Ejecucion projecto Angular y Aplicacion Rest
 
+##Repositorios git con el codigo fuente:
+- Proejecto Angular: https://github.com/aranda65321/TestAdn.git
+- Proejecto Spring boot: https://github.com/aranda65321/AdnApiRest-SpringBoot.git
+- 
 ##Requisitos previos:
  - Tener instalado Node.js, npm y angular CLI
  - Java 11
