@@ -1,7 +1,40 @@
+#Ejecucion projecto Angular y Aplicacion Rest
+
+##Requisitos previos:
+ - Tener instalado Node.js, npm y angular CLI
+ - Java 11
+
+##Manual de uso Web
+Actualmente aloje en servidor tanto el projecto angular y servidor Rest, esto quiere decir que se puede usar sin tener que instalar nada en el computador, sigue estos pasos
+
+- Abre un navegador
+- Ve al siguiente enlace http://adn.spring-demo.angular.s3-website-us-east-1.amazonaws.com
+- Crea un usuario 
+- Una vez registrado inicias sesion
+- Introduces el tamaño de la matrix
+- Rellenas la matrix a validar y le das enviar
+- Adicionalmente se muestra la estadistica de los Adn ingresados a la app
+
+##Manual de uso Web - Usuarios pre-Definidos
+username: test1
+password: 1234
+
+##Manual de despliegue Local:
+Para poder Iniciar los proyectos debe ejecutar como administrador el archivo llamado ejecutar.bat dentro de la carpeta codigo fuente, el cual va instalar las librerias para el proyecto angular, iniciara el servidor angular y servidor Rest spring boot
+
+##Uso projecto
+Una vez iniciado el servidor angular en localhost:4200 y el servidor rest en localhost:8080, procedemos a hacer lo siguiente
+
+- Abrir un navegador e ir al siguiente http://localhost:4200/ aqui se te cargara la pagina del proyecto
+- Registras un usuario
+- Una vez registrado inicias sesion
+- Introduces el tamaño de la matrix
+- Rellenas la matrix a validar y le das enviar
+- Adicionalmente se muestra la estadistica de los Adn ingresados a la app
+
+
 # Informacion Api Rest "AdnApiRest-SpringBoot"
 AdnApiRest-SpringBoot Api rest para validacion de Adns
-
-##
 
 ##Solicitudes permitidas por el servidor
 
